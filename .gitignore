@@ -1,0 +1,11 @@
+# python
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# vscode
+.vscode/
+
+# project
+cred/*.json
